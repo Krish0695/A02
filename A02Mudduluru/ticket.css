@@ -1,0 +1,13 @@
+body {
+    background-image: url("6.jpg");
+    background-repeat: no-repeat;
+    height: "100%";
+    width: "100%";
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
